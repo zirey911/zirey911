@@ -2,9 +2,9 @@
 ✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦
 - 👋 Hi, I’m @zirey911
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning The linux operating system
+- 🌱 I’m currently learning The Django Framework
 - 💞️ I’m looking to collaborate on Python projects or C++ Projects
-- 😄 Pronouns: Refrence me as Zirey or Cxzirey
+- 😄 Pronouns: He/Him (Call me whatever you want, I don't really care)
 - ⚡ Fun fact: I can use these languages -->
 -   🐍Python
 -   🏎️💨C++
@@ -12,6 +12,8 @@
 -   🌐Css
 -   💡JavaScript
 -   😵‍💫Lua
+-   ♨️Java
+-   ⛁MYSql
   
 ✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦
 𓆉𓆝 𓆟 𓆞 𓆝 𓆟𓇼
